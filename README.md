@@ -12,6 +12,4 @@ When prompt to enter a path, include the directory for which you want all the ou
 
 <h2>Use:<h2>
 
-```{r}
-python3 optionA.py
-```
+`python3 optionA.py`
