@@ -1,6 +1,6 @@
 # Mini Project: Option A 
 
-Following must be installed if not already:  
+Following must be installed if not already:
 - SRA-toolkit: https://ncbi.github.io/sra-tools/install_config.html
 - python3: https://realpython.com/installing-python/, https://www.python.org/downloads/ (though this should be installed already)  
 - SpAdes: http://cab.spbu.ru/software/spades/  
@@ -11,11 +11,11 @@ All of these tools must be on the same machine. If you don't have the wget comma
 
 When prompt to enter a path, include the directory for which you want all the outputs to go into. For example, if I wanted my results to output into a folder called 'Myfolder', I would type in: /Users/Name/Desktop/MyFolder i.e. /path/MyFolder. Where you want the results to be located is up to you.
 
-OptionA.py and sample.txt must also be in the same location. 
+OptionA.py and sample.txt must also be in the same location/directory. 
 
 <h2>Use:<h2>
 
-Run on command line:
+Run on command line:  
 ``
 python3 optionA.py
 ``
