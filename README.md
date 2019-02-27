@@ -13,7 +13,7 @@ When prompt to enter a path, include the directory for which you want all the ou
 
 OptionA.py and sample.txt must also be in the same location/directory. 
 
-Use:
+<h2>Use:<h2>
 
 Run on command line:  
 ``
