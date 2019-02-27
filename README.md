@@ -3,7 +3,7 @@
 Following must be installed if not already:
 - SRA-toolkit: https://ncbi.github.io/sra-tools/install_config.html
 - python3: https://realpython.com/installing-python/, https://www.python.org/downloads/ (though this should be installed already)  
-- SpAdes: http://cab.spbu.ru/software/spades/  
+- SPAdes: http://cab.spbu.ru/software/spades/  
 - Prokka: https://github.com/tseemann/prokka  
 - TopHat2, Bowtie2, Cufflinks: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3334321/  
 
