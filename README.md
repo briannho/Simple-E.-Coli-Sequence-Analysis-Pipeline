@@ -1,6 +1,8 @@
 # Mini Project: Option A 
 
-Following must be installed if not already:
+This is a python wrapper that will run various tools on E coli K-12 reads and produce results in a folder and log file.
+
+The following must be installed if not already:
 - SRA-toolkit: https://ncbi.github.io/sra-tools/install_config.html
 - python3: https://realpython.com/installing-python/, https://www.python.org/downloads/ (though this should be installed already)  
 - SPAdes: http://cab.spbu.ru/software/spades/  
